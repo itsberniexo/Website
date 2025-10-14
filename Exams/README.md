@@ -1,2 +1,0 @@
-# Exams
-Exam Code
